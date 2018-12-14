@@ -15,10 +15,14 @@ Nous avons fini la séance en nous demandant quel type de moteurs allons-nous ut
 
 Cette semaine nous avons choisit les moteurs que nous utiliserons. Nous avons dû choisir entre des moteurs pas à pas et des servomoteurs.
 Dans le projet qui nous sert de guide, les moteurs choisit étaient des pas à pas avec des encodeurs afin de gérer les erreurs des moteurs (pertes de pas, …). Nous avons vu qu’avec des servomoteurs gérés en microsecondes nous n’aurons aucun de ces problèmes avec en prime une meilleure précision.
+
 Nous avons aussi distribué les tâches : 
+
 -	Liste de matériel et distribution des tâches -> à deux
 -	Écran résistif -> Yassine
 -	PID -> Baptiste RIP
 -	Servomoteurs -> Yassine
 -	Maquette –> à deux
+
+J'ai aussi commencé a créé la maquette de notre projet sur Inventor.
 
