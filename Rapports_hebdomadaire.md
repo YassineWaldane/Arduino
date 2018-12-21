@@ -30,11 +30,11 @@ J'ai aussi commencé a créé la maquette de notre projet sur Inventor.
 
 Cette semaine j'ai créé des chassis sur inventor qui auraient étaient pour l'un un hexagone avec des emplacements pour les 3 moteurs (que j'ai modélisé avec des cylidres avec des barres) et un support pour l'écran.
 
-[Image du 1er chassis](https://github.com/YassineWaldane/Arduino/blob/master/Croquis%204.png)
+![Image du 1er chassis](https://github.com/YassineWaldane/Arduino/blob/master/Croquis%204.png)
 
 Puis j'ai changé je support recangulaire en support triangulaire avec des creux pour pouvoir faire une articulations du mecanisme.
 
-[Image du 2nd chassis](https://github.com/YassineWaldane/Arduino/blob/master/Croquis%206.png)
+![Image du 2nd chassis](https://github.com/YassineWaldane/Arduino/blob/master/Croquis%206.png)
 
 MAIS avec Baptiste nous avons pas mal discuté sur le fait d'utiliser trois moteurs. surtout par rapport aux calculs d'angles que l'on devra faire avec le PID, etc... car on n'a besoin que de bouger que selon deux axes donc l'usage de trois moteurs nous compliquerait la tâche au niveau du code.
 Nous avons donc opté pour l'usage de deux moteurs car c'est plus adapté à nos besoins et surtout plus à notre portée.
