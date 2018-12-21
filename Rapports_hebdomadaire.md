@@ -37,12 +37,11 @@ J'ai donc opté pour un support triangulaire avec des trous pour y faire passer 
 
 ![Image du 2nd chassis](https://github.com/YassineWaldane/Arduino/blob/master/Croquis%206.png)
 
-## MAIS 
+## MAIS
 
 Avec Baptiste nous avons pas mal discuté sur le fait d'utiliser trois moteurs. surtout par rapport aux calculs d'angles que l'on devra faire avec le PID, etc... car on n'a besoin que de bouger que selon deux axes donc l'usage de trois moteurs nous compliquerait la tâche au niveau du code.
 Nous avons donc opté pour l'usage de deux moteurs car c'est plus adapté à nos besoins et surtout plus à notre portée.
 
 J'ai donc du refaire un autre support où, cette fois ci il y a deux points pour faire bouger la balle ( en x et en y , et une rotule au centre du support qui maintiendra le tout ).
 
-[Image du dernier support]
-
+![Image du dernier support](https://github.com/YassineWaldane/Arduino/blob/master/Croquis%207.png)
