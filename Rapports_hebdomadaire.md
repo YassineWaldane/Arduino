@@ -32,12 +32,17 @@ Cette semaine j'ai créé des chassis sur inventor qui auraient étaient pour l'
 
 ![Image du 1er chassis](https://github.com/YassineWaldane/Arduino/blob/master/Croquis%204.png)
 
-Puis j'ai changé je support recangulaire en support triangulaire avec des creux pour pouvoir faire une articulations du mecanisme.
+En réléchissant un peu j'ai changé de support car le support rectangulaire ne permettait pas de placer d'axe pour les rotations.
+J'ai donc opté pour un support triangulaire avec des trous pour y faire passer des axes qui permettront le balançement de l'écran.
 
 ![Image du 2nd chassis](https://github.com/YassineWaldane/Arduino/blob/master/Croquis%206.png)
 
-MAIS avec Baptiste nous avons pas mal discuté sur le fait d'utiliser trois moteurs. surtout par rapport aux calculs d'angles que l'on devra faire avec le PID, etc... car on n'a besoin que de bouger que selon deux axes donc l'usage de trois moteurs nous compliquerait la tâche au niveau du code.
+## MAIS 
+
+Avec Baptiste nous avons pas mal discuté sur le fait d'utiliser trois moteurs. surtout par rapport aux calculs d'angles que l'on devra faire avec le PID, etc... car on n'a besoin que de bouger que selon deux axes donc l'usage de trois moteurs nous compliquerait la tâche au niveau du code.
 Nous avons donc opté pour l'usage de deux moteurs car c'est plus adapté à nos besoins et surtout plus à notre portée.
 
-J'ai donc du refaire un autre support
+J'ai donc du refaire un autre support où, cette fois ci il y a deux points pour faire bouger la balle ( en x et en y , et une rotule au centre du support qui maintiendra le tout ).
+
+[Image du dernier support]
 
