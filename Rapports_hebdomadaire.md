@@ -45,3 +45,27 @@ Nous avons donc opté pour l'usage de deux moteurs car c'est plus adapté à nos
 J'ai donc du refaire un autre support où, cette fois ci il y a deux points pour faire bouger la balle ( en x et en y , et une rotule au centre du support qui maintiendra le tout ).
 
 ![Image du dernier support](https://github.com/YassineWaldane/Arduino/blob/master/Croquis%207.png)
+
+# Semaine 4 (11 / 01 /2019):`
+
+Aujourd'hui j'ai donc commencé la création de notre première maquette.
+Pour cela je suis aller au Fablab de Sophia ( SoFab ) afin d'utiliser la découpe laser.
+Pour pouvoir découper avec le matériel du Fablab il faut que le fichier soit sous format
+svg, donc j'ai refait les formes dont j'avais besoin sur le logiciel inkscape.
+
+## Pour le support de l'écran:
+
+![Image du support d'écran](https://github.com/YassineWaldane/Arduino/blob/master/supportecran.png)
+
+Mais comme toujours on fait des bêtises comme ici ^^ où j'ai raté les encoches:
+
+![Image de l'erreurmdr](https://github.com/YassineWaldane/Arduino/blob/master/erreurmdr.jpg)
+
+## Pour le support des servomoteurs avec une petite gravure du plus grand duo d'Arduino:
+
+![Image du support](https://github.com/YassineWaldane/Arduino/blob/master/grossupport.png)
+
+## Résultat Final :
+![Image Final écran](https://github.com/YassineWaldane/Arduino/blob/master/finalecran.jpg)
+![Image Final grossupport](https://github.com/YassineWaldane/Arduino/blob/master/20190111_221210.jpg)
+
