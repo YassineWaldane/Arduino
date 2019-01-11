@@ -26,7 +26,7 @@ Nous avons aussi distribué les tâches :
 
 J'ai aussi commencé a créé la maquette de notre projet sur Inventor.
 
-# Semaine 3 (21 / 12 /2018):
+# `Semaine 3 (21 / 12 /2018):`
 
 Cette semaine j'ai créé des chassis sur inventor qui auraient étaient pour l'un un hexagone avec des emplacements pour les 3 moteurs (que j'ai modélisé avec des cylidres avec des barres) et un support pour l'écran.
 
