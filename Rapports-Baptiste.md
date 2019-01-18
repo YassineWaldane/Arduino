@@ -62,12 +62,12 @@ Pendant cette séance, j’ai bossé sur le touchscreen, celui-ci enfin en notre
 Résultat : après quelques problèmes d’exportation de librairies, le programme nous renvoie des coordonnées correspondant à notre position sur le touchscreen, mais il y a un problème :
 Au niveau des coordonnées celles-ci sont faussées , en effet le touchscreen est constitué de plusieurs écrans, pour faire simple disons qu’il y en a un grand et un petit, la propriété tactile est présente uniquement sur la surface du petit écran ( rouge ), il y a donc un bord qui n’est pas tactile,
 
-IMAGE ECRAN JUSTE AVEC BORD
+![Image ecran avec bords](https://github.com/YassineWaldane/Arduino/blob/master/images/%C3%A9cranbapt.jpg)
 
  Pour les calculs avec le PID, seul la surface tactile est importante, or l’origine des coordonnées n’est pas située dans le petit écran, Le coin correspondant au coin  bas-gauche du petit écran correspond au point (66.115), j’ai donc mettre en place 2 variables convert, pour redéfinir l’origine des systèmes de coordonnées.
 J’ai ensuite commencé la partie communication, dans notre projet à la place de mettre une manette physique nous permettant par exemple de bouger manuellement la plaque ou de placer la Ball à un endroit précis, nous avons opté pour un système Bluetooth donc une manette virtuelle sans fil, j’ai donc commencé le code correspondant à la manette, celui-ci est fortement incomplet la partie sur les servos moteurs n’étant pas encore faite.
 
-IMAGE AVEC LES ZONES
+![Image ecran avec zones](https://github.com/YassineWaldane/Arduino/blob/master/images/%C3%A9cranavecbords.png)
 
 Les zones A, B, C, D divisent l’écran en 4 parties, dans lesquels la balle pourra être dirigés à condition d’appuyer sur les boutons correspondants sur la manette,
 Finalement j’ai trouvé un code pour la partie PID correspondant à notre projet, code qui n’est pas encore compris dans sa totalité mais la est pas difficulté majeur du projet
@@ -80,5 +80,6 @@ Ce qui m’a perturbé, c’est que le point central soit associé à la coordon
 J’ai donc utilisé la méthode map() d’Arduino, qui prend en paramètre une variable x, un intervalle borné sur lequel elle varie et un intervalle sur laquelle on veut la faire varier,
 On prend alors la variable p.x qui correspond à la valeur en x du point auquel une pression est exercée, celle-ci varie de 102 à 925 et on veut qu’elle varie de 10mm à 130mm (pas 0-14cm car les bords ne sont pas tactiles), idem pour p.y, on a alors converti les coordonnées en mm.
 On note que pendant cette séance j’ai passé tout mon temps à me battre contre des problèmes de ports et bien évidemment des fautes d’inattention dans mon programme (exemple, inverser p.x et p.y), des erreurs qui n’ont pas été directement corrigés car les résultats étaient quasiment satisfaisants environ 0.5 cm de décalage avec la réalité et ceux avec des erreurs de code.
-CODE:
+
+![Image code ecran](https://github.com/YassineWaldane/Arduino/blob/master/images/Code%20%C3%A9cran.png)
 ET MONTAGE
