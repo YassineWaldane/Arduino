@@ -82,7 +82,6 @@ On prend alors la variable p.x qui correspond à la valeur en x du point auquel 
 On note que pendant cette séance j’ai passé tout mon temps à me battre contre des problèmes de ports et bien évidemment des fautes d’inattention dans mon programme (exemple, inverser p.x et p.y), des erreurs qui n’ont pas été directement corrigés car les résultats étaient quasiment satisfaisants environ 0.5 cm de décalage avec la réalité et ceux avec des erreurs de code.
 
 Le code qui permet de donner la position de la balle sur l'écran : 
-
 ![Image code ecran](https://github.com/YassineWaldane/Arduino/blob/master/images/Code%20%C3%A9cran.png)
 
 Voici le montage de l'écran :
