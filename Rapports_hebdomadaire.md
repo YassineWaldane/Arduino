@@ -4,7 +4,7 @@
 
 Lors de cette première séance nous avons commencé à faire les premiers choix techniques pour notre projet.
 Au début pour équilibrer notre plaque nous voulions utiliser un accéléromètre afin de savoir comment est notre plaque pour faire en sorte de la redressé. En lisant l’exxxxxxxxcellent cours de M. Masson nous avons compris que ce choix n’était pas le meilleur car nous avons trouvé beaucoup plus simple et pratique : Un écran résistif. Cet écran permet de savoir où se trouve la balle grâce à la pression que celle-ci créée sur l’écran. L’écran renvoie la position en x et en y de la balle.
-![Image de l'écran](https://raw.githubusercontent.com/YassineWaldane/Arduino/master/%C3%A9cran.jpg)
+![Image de l'écran](https://raw.githubusercontent.com/YassineWaldane/Arduino/master/images/%C3%A9cran.jpg)
 Cet écran 4 fils (VDD, Ground, position x, position y).
 
 Après ce choix, nous avons dû choisir entre un écran de 8’’ et un écran de 17’’. Dans les deux cas nous avons trouvé des projets similaires au notre.
@@ -30,12 +30,12 @@ J'ai aussi commencé a créé la maquette de notre projet sur Inventor.
 
 Cette semaine j'ai créé des chassis sur inventor qui auraient étaient pour l'un un hexagone avec des emplacements pour les 3 moteurs (que j'ai modélisé avec des cylidres avec des barres) et un support pour l'écran.
 
-![Image du 1er chassis](https://github.com/YassineWaldane/Arduino/blob/master/Croquis%204.png)
+![Image du 1er chassis](https://github.com/YassineWaldane/Arduino/blob/master/images/Croquis%204.png)
 
 En réléchissant un peu j'ai changé de support car le support rectangulaire ne permettait pas de placer d'axe pour les rotations.
 J'ai donc opté pour un support triangulaire avec des trous pour y faire passer des axes qui permettront le balançement de l'écran.
 
-![Image du 2nd chassis](https://github.com/YassineWaldane/Arduino/blob/master/Croquis%206.png)
+![Image du 2nd chassis](https://github.com/YassineWaldane/Arduino/blob/master/images/Croquis%206.png)
 
 ## MAIS
 
@@ -44,7 +44,7 @@ Nous avons donc opté pour l'usage de deux moteurs car c'est plus adapté à nos
 
 J'ai donc du refaire un autre support où, cette fois ci il y a deux points pour faire bouger la balle ( en x et en y , et une rotule au centre du support qui maintiendra le tout ).
 
-![Image du dernier support](https://github.com/YassineWaldane/Arduino/blob/master/Croquis%207.png)
+![Image du dernier support](https://github.com/YassineWaldane/Arduino/blob/master/images/Croquis%207.png)
 
 # `Semaine 4 (11 / 01 /2019):`
 
@@ -55,21 +55,21 @@ svg, donc j'ai refait les formes dont j'avais besoin sur le logiciel inkscape.
 
 ## Pour le support de l'écran:
 
-![Image du support d'écran](https://github.com/YassineWaldane/Arduino/blob/master/supportecran.png)
+![Image du support d'écran](https://github.com/YassineWaldane/Arduino/blob/master/images/supportecran.png)
 
 
 Mais comme toujours on fait des bêtises comme ici ^^ où j'ai raté les encoches:
 
  
-![Image de l'erreurmdr](https://github.com/YassineWaldane/Arduino/blob/master/erreurmdr.jpg)
+![Image de l'erreurmdr](https://github.com/YassineWaldane/Arduino/blob/master/images/erreurmdr.jpg)
 
 ## Pour le support des servomoteurs avec une petite gravure du plus grand duo d'Arduino:
 
-![Image du support](https://github.com/YassineWaldane/Arduino/blob/master/grossupport.png)
+![Image du support](https://github.com/YassineWaldane/Arduino/blob/master/images/grossupport.png)
 
 ## Résultat Final :
-![Image Final écran](https://github.com/YassineWaldane/Arduino/blob/master/finalecran.jpg)
-![Image Final grossupport](https://github.com/YassineWaldane/Arduino/blob/master/20190111_221210.jpg)
+![Image Final écran](https://github.com/YassineWaldane/Arduino/blob/master/images/finalecran.jpg)
+![Image Final grossupport](https://github.com/YassineWaldane/Arduino/blob/master/images/20190111_221210.jpg)
 
 À part ça, j'ai decoupé des tuyaux en métal afin d'en faire des bielles.
 Ce week-end je vais essayer de monter le tout.
