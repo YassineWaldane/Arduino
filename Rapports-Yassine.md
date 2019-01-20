@@ -73,3 +73,32 @@ Mais comme toujours on fait des bêtises comme ici ^^ où j'ai raté les encoche
 
 À part ça, j'ai decoupé des tuyaux en métal afin d'en faire des bielles.
 Ce week-end je vais essayer de monter le tout.
+
+# `Semaine 5 18/01/2019:`
+
+J'ai adapté deux bielles sur la partie du support de l'écran 
+afin de transmettre le mouvement à l'écran plus tard.
+J'ai dû agandir les petits troux sur le support pour y faire passer des tiges 
+filettées qui feront office d'axes de rotations. Puis j'ai aussi troué les tubes
+de métal qui seront les bielles transemttent le mouvement au support de l'écran.
+
+## Le support de l'écran ressemble donc à :
+
+![Image du support d'écran complet 1](https://github.com/YassineWaldane/Arduino/blob/master/images/support%20final%201.jpg)
+
+![Image du support d'écran complet 2](https://github.com/YassineWaldane/Arduino/blob/master/images/support%20final%202.jpg)
+
+J'ai fait un petit programme simple pour les servomoteurs, qui sert juste a faire 
+tourner l'axe du moteur par rapport à la tension du potentiometre.
+
+## Le programme des servomoteurs :
+
+![Image du programme des servomoteurs](https://github.com/YassineWaldane/Arduino/blob/master/images/code%20moteur%2Bpotentio.png)
+
+Il fonctionne très bien avec les servomoteurs basiques mais lorsque j'ai essayé
+de faire le fonctionner avec les servomoteurs que l'on utilisera pour notre projet
+il y a un problème d'alimention des servomoteurs.
+Ils ne fonctionnent pas avec du 6V et 170mA comme ils le devraient selon
+leurs datasheets.
+J'essayerai de corriger cela durant la semaine qui vient.
+ 
