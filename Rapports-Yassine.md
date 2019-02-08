@@ -102,3 +102,18 @@ Ils ne fonctionnent pas avec du 6V et 170mA comme ils le devraient selon
 leurs datasheets.
 J'essayerai de corriger cela durant la semaine qui vient.
  
+ 
+ # `Semaine 6 ( 06 / 02 / 2019 ) :`
+
+Après avoir fais un bon paquet de test j'ai réglé le problème des servomoteurs
+en trouvant que ce problème venait de l'adaptateur qui ne fonctionnait pas.
+Reste à savoir si je peut alimenter les deux servomoteurs avec cet adaptateur seulement.
+
+Puis nous sommes aller au Fablab pour refaire certaines parties du chassis
+tel que les deux bielles entre les servo et le support de l'écran.
+Cette fois ci avec les bonnes côtes, mais dans le bus pendant les 45 minutes
+de trajet commun avec Baptiste nous avons vivement débattu et nous avons trouvé
+LA solution utiliser des Geomag pour nos bielles, les Geomag permettent des liaisons
+rotules ce qui nous pensons supprimera certaines contraintes que j'expliquerai à
+l'oral car c'est pas très bien expliquable à l'écrit.
+
