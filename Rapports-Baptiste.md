@@ -88,3 +88,19 @@ On note que pendant cette séance j’ai passé tout mon temps à me battre cont
 ### Voici le montage de l'écran :
 
 ![Image montage ecran](https://github.com/YassineWaldane/Arduino/blob/master/images/montagecranbapt.jpg)
+## 06/02/2018
+
+Début de séance, Vérification pour les servos moteurs, avec un simple code test:
+![Image code](https://github.com/YassineWaldane/Arduino/blob/master/images/Code%20test%20servo%20.PNG)
+
+Ensuite, il fallait avancer le montage du projet car pour effectuer les tests concrets du code, il nous faut un montage quasi terminé. Les prochaines séances seront consacrées pleinement au montage. 
+![Image montage](https://github.com/YassineWaldane/Arduino/blob/master/images/Maquette.PNG)
+
+Avec 1, Le pilier central maintenant la plaque et 2 les servos moteurs contrôlant la plaque, reliés à elle avec des tiges.
+Nous sommes donc allés au fable, pour avancer la conception, avec la création des bielles et la mise en place des éléments 
+![Schemas](https://github.com/YassineWaldane/Arduino/blob/master/images/Bielle%20(1).jpg)
+![Schema](https://github.com/YassineWaldane/Arduino/blob/master/images/Bielle%20(2).jpg)
+
+Réalisation :
+![ImageIRL](https://github.com/YassineWaldane/Arduino/blob/master/images/bielle%2Bsupport%20irl.jpg)
+
