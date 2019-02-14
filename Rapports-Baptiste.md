@@ -88,7 +88,7 @@ On note que pendant cette séance j’ai passé tout mon temps à me battre cont
 ### Voici le montage de l'écran :
 
 ![Image montage ecran](https://github.com/YassineWaldane/Arduino/blob/master/images/montagecranbapt.jpg)
-## 06/02/2018
+## 06/02/2019
 
 Début de séance, Vérification pour les servos moteurs, avec un simple code test:
 ![Image code](https://github.com/YassineWaldane/Arduino/blob/master/images/Code%20test%20servo%20.PNG)
@@ -101,6 +101,29 @@ Nous sommes donc allés au fable, pour avancer la conception, avec la création 
 ![Schemas](https://github.com/YassineWaldane/Arduino/blob/master/images/Bielle%20(1).jpg)
 ![Schema](https://github.com/YassineWaldane/Arduino/blob/master/images/Bielle%20(2).jpg)
 
-Réalisation :
+## Réalisation :
+
 ![ImageIRL](https://github.com/YassineWaldane/Arduino/blob/master/images/bielle%2Bsupport%20irl.jpg)
+
+## 13/02 :
+Début de séance au fablab, pendant 2 heures, pour continuer la conception de la maquette, le nouveau support / bielles étant prêts, nous avons décidé de support pour l’écran. Ayant eu quelque problème, la création de celui-ci nous a pris du temps, notamment dû à l’importation de fichier inventor vers svg.
+## Ancien support:
+[!Ancien](https://github.com/YassineWaldane/Arduino/blob/master/images/Ancien.jpg)
+
+## Nouveau support :
+[!nouveausupport](https://github.com/YassineWaldane/Arduino/blob/master/images/Nouveau.jpg)
+
+## Montage:
+
+[Support+bielles](https://github.com/YassineWaldane/Arduino/blob/master/images/nouveau%20%2B%20bielles.jpg)
+
+Ensuite nous avons mis en place, les différents éléments et collé les supports servos, on note que pour placer ces supports il fallait faire attention à alignements des éléments  
+## Mise en place + fixation des support Servos
+[!miseenplace](https://github.com/YassineWaldane/Arduino/blob/master/images/Support%20Servos.jpg)
+
+La dernière étape pour finaliser la maquette, créé une « extension » pour la bielle afin de pour créer une liaison pivot servo-bielle
+
+## Extention schéma:
+[!test](https://github.com/YassineWaldane/Arduino/blob/master/images/Pivot%20.jpg)
+
 
