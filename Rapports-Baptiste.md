@@ -101,7 +101,7 @@ Nous sommes donc allés au fable, pour avancer la conception, avec la création 
 ![Schemas](https://github.com/YassineWaldane/Arduino/blob/master/images/Bielle%20(1).jpg)
 ![Schema](https://github.com/YassineWaldane/Arduino/blob/master/images/Bielle%20(2).jpg)
 
-## Réalisation :
+## Réalisation : ( bielles = geomag )
 ![ImageIRL](https://github.com/YassineWaldane/Arduino/blob/master/images/bielle%2Bsupport%20irl.jpg)
 
 ## 13/02 :
@@ -122,7 +122,7 @@ Ensuite nous avons mis en place, les différents éléments et collé les suppor
 ## Mise en place + fixation des support Servos
 ![miseenplace](https://github.com/YassineWaldane/Arduino/blob/master/images/Support%20Servos.jpg)
 
-La dernière étape pour finaliser la maquette, créé une « extension » pour la bielle afin de pour créer une liaison pivot servo-bielle
+La dernière étape pour finaliser la maquette, créé une « extension » pour la bielle afin de pour créer une liaison pivot servo-bielle, étant donné que percer directement les barres géomag est impossible
 
 ## Extention schéma:
 ![test](https://github.com/YassineWaldane/Arduino/blob/master/images/Pivot%20.jpg)
