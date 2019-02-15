@@ -103,7 +103,7 @@ leurs datasheets.
 J'essayerai de corriger cela durant la semaine qui vient.
  
  
- # `Semaine 6 ( 06 / 02 / 2019 ) :`
+## `Semaine 6 ( 06 / 02 / 2019 ) :`
 
 Après avoir fais un bon paquet de test j'ai réglé le problème des servomoteurs
 en trouvant que ce problème venait de l'adaptateur qui ne fonctionnait pas.
@@ -117,3 +117,24 @@ LA solution utiliser des Geomag pour nos bielles, les Geomag permettent des liai
 rotules ce qui nous pensons supprimera certaines contraintes que j'expliquerai à
 l'oral car c'est pas très bien expliquable à l'écrit.
 
+## `Semaine 7	(13 / 02 / 2019) :`
+
+Cette séance nous a permis d'achever toutes les parties du supports que ce soit le nouveau support d'écran ou encore le placement des support des servomoteurs sur le suport au sol.
+Nous avons perdu pas mal de temps à la découpe laser car Incscape n'est oas très pratique, nous avons donc refait notre modèle sur inventor puis exporter ce modèle en svg (format qu'accepte la découpeuse laser). 
+
+Voici le résultat:
+
+!(Image du support écran V3)[https://github.com/YassineWaldane/Arduino/blob/master/images/Nouveau.jpg]
+
+Comme je l'ai dis la semaine dernière afin d'avoir le minimum de contrainte nous avons décider d'utiliser des geomags pour faire nos liaison voici une fiche récapitulative: 
+
+!(Fiche récap 1)[https://github.com/YassineWaldane/Arduino/blob/master/images/Bielle%20(1).jpg]
+!(Fiche récap 2)[https://github.com/YassineWaldane/Arduino/blob/master/images/Bielle%20(2).jpg]
+
+Nous avons donc fixé les liaisons sur le support.
+
+!(Support fini)[https://github.com/YassineWaldane/Arduino/blob/master/images/nouveau%20%2B%20bielles.jpg]
+
+Ainsi que les supports de servomoteurs à leur place.
+
+!(Support servos)[https://github.com/YassineWaldane/Arduino/blob/master/images/Support%20Servos.jpg]
