@@ -128,13 +128,13 @@ Voici le résultat:
 
 Comme je l'ai dis la semaine dernière afin d'avoir le minimum de contrainte nous avons décider d'utiliser des geomags pour faire nos liaison voici une fiche récapitulative: 
 
-!(Fiche récap 1)[https://github.com/YassineWaldane/Arduino/blob/master/images/Bielle%20(1).jpg]
-!(Fiche récap 2)[https://github.com/YassineWaldane/Arduino/blob/master/images/Bielle%20(2).jpg]
+![Fiche récap 1](https://github.com/YassineWaldane/Arduino/blob/master/images/Bielle%20(1).jpg)
+![Fiche récap 2](https://github.com/YassineWaldane/Arduino/blob/master/images/Bielle%20(2).jpg)
 
 Nous avons donc fixé les liaisons sur le support.
 
-!(Support fini)[https://github.com/YassineWaldane/Arduino/blob/master/images/nouveau%20%2B%20bielles.jpg]
+![Support fini](https://github.com/YassineWaldane/Arduino/blob/master/images/nouveau%20%2B%20bielles.jpg)
 
 Ainsi que les supports de servomoteurs à leur place.
 
-!(Support servos)[https://github.com/YassineWaldane/Arduino/blob/master/images/Support%20Servos.jpg]
+![Support servos](https://github.com/YassineWaldane/Arduino/blob/master/images/Support%20Servos.jpg)
