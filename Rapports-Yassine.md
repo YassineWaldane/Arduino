@@ -124,7 +124,7 @@ Nous avons perdu pas mal de temps à la découpe laser car Incscape n'est oas tr
 
 Voici le résultat:
 
-!(Image du support écran V3)[https://github.com/YassineWaldane/Arduino/blob/master/images/Nouveau.jpg]
+![Image du support écran V3](https://github.com/YassineWaldane/Arduino/blob/master/images/Nouveau.jpg)
 
 Comme je l'ai dis la semaine dernière afin d'avoir le minimum de contrainte nous avons décider d'utiliser des geomags pour faire nos liaison voici une fiche récapitulative: 
 
@@ -138,3 +138,7 @@ Nous avons donc fixé les liaisons sur le support.
 Ainsi que les supports de servomoteurs à leur place.
 
 ![Support servos](https://github.com/YassineWaldane/Arduino/blob/master/images/Support%20Servos.jpg)
+
+J'ai aussi modélisé les liaisons bielles-servomoteurs que l'on imprimera en 3D si possible 
+![bielle servos](https://github.com/YassineWaldane/Arduino/blob/master/images/bielleServo.jpg)
+![bielle servos 1](https://github.com/YassineWaldane/Arduino/blob/master/images/bielleservo1.jpg)
