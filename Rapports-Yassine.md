@@ -139,6 +139,8 @@ Ainsi que les supports de servomoteurs à leur place.
 
 ![Support servos](https://github.com/YassineWaldane/Arduino/blob/master/images/Support%20Servos.jpg)
 
-J'ai aussi modélisé les liaisons bielles-servomoteurs que l'on imprimera en 3D si possible 
-![bielle servos](https://github.com/YassineWaldane/Arduino/blob/master/images/bielleServo.jpg)
-![bielle servos 1](https://github.com/YassineWaldane/Arduino/blob/master/images/bielleservo1.jpg)
+J'ai aussi modélisé les liaisons bielles-servomoteurs que l'on imprimera en 3D si possible à la rentrée:
+Le geomag qui fera office de bielle entrera dans ce support et un axe liera celui-ci et le bras du servomoteurs afin d'avoir une relation pivot.
+
+![bielle servos](https://github.com/YassineWaldane/Arduino/blob/master/images/bielleServo.png)
+![bielle servos 1](https://github.com/YassineWaldane/Arduino/blob/master/images/bielleservo1.png)
