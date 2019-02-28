@@ -135,8 +135,10 @@ Donc imprimer en 3d , les supports bielles et créer le pilier centrale.
  Tout d'abord, nous avons imprimé au fablab le modèle précédemment esquisser. Les premieres impressions étant raté nous avons du nous y prendre à plusieurs reprises, l'imprimante du Fablab étant d'une extreme imprecision. Pour au final nous rendre compte que : Le modèle choisi ne correspondait pas à nos  attentes.  Nous avons donc du imaginer un nouveau modèle de support bielle.( Voir schéma explicatif  fin ).
  
  L'avantage de ce nouveau modèle, en plus qu'il correspond à nos attentes et que nous ne sommes pas obligé de réimprimer des supports, en poncant au papier de verre, on peut passer du modèle 1 au modèle 2.
- Les supports bielles étant finis et donc les bielles étant finis, il ne restait plus que le pilier centrale à finir.5 ( voir schéma explicatif fin )
+ Les supports bielles étant finis et donc les bielles étant finis, il ne restait plus que le pilier centrale à finir ( voir schéma explicatif fin ).
+ 
  Après quelques calculs pour obtenir les dimensions de chaque pièces du pilier, nous avons pu le finaliser et ainsi finaliser la maquette.
+ 
 On note que chaque millimètre compte dans ce genre de projet, qui se base sur l'équilibre, d'ou le temps investit dans la réalisation de maquette.
 
 ## Schéma explicatif
