@@ -146,7 +146,9 @@ On note que chaque millimètre compte dans ce genre de projet, qui se base sur l
 ![Schema piece 1](https://github.com/YassineWaldane/Arduino/blob/master/images/Schema%20piece%20(1).jpg)
 ![Schema piece 2](https://github.com/YassineWaldane/Arduino/blob/master/images/Schema%20piece%20(2).jpg)
 
-## SCHEMA MAQUETTE
+## SCHEMA MAQUETTE 
+
+La maquette n'est pas fini à 100% certain éléments ne sont pas encore collés entre eux, d'ou le fait que le rendu ne soit pas encore parfaitement droit.
 
 ![Maquette](https://github.com/YassineWaldane/Arduino/blob/master/images/Maquette%201.jpg)
 ![Maquette 2](https://github.com/YassineWaldane/Arduino/blob/master/images/Maquette%202.jpg)
