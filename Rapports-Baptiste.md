@@ -157,7 +157,7 @@ La maquette n'est pas fini à 100% certain éléments ne sont pas encore collés
 Petite précision sur le magnétisme dans notre projet :
 
 Les billes métalliques ne sont pas polarisés, elles n'attirent donc pas le métal, les barres magnétiques polarisent alors les billes, d'ou l'attration entre ces deux éléments et la non-présence de colle, l'attration étant assez forte pour lier les deux élements.
-Pour le pilier, la bille et le tube sont non polarisés, et on ne peut pas utilisé, une barre magnétique comme pour les bielles, le pilier devant être bien plus imposant, Nous avons donc utilisé un aimant, pour revenir à la situation précedemment expliquée celui-ci polarisera le tube et la bille. ( Ce procédé est assez complexe à expliquer et bien plus simple a illustré En direct avec une manipulation simple )
-Le gros avantage de ce servir des forces magnétique, et que nous utilisons peu de colle, et donc nous pouvons à tout moment revenir en arrière.
+Pour le pilier, la bille et le tube sont non polarisés, et on ne peut pas utilisé, une barre magnétique comme pour les bielles, le pilier devant être bien plus imposant, Nous avons donc utilisé un aimant, pour revenir à la situation précedemment expliquée, car celui-polarise le tube et la bille. ( Ce procédé est assez complexe à expliquer et bien plus simple a illustré En direct avec une manipulation simple )
+Le gros avantage de ce servir des forces magnétiques, et que nous utilisons peu de colle, et donc nous pouvons à tout moment revenir en arrière.
 
 
