@@ -144,3 +144,32 @@ Le geomag qui fera office de bielle entrera dans ce support et un axe liera celu
 
 ![bielle servos](https://github.com/YassineWaldane/Arduino/blob/master/images/bielleServo.png)
 ![bielle servos 1](https://github.com/YassineWaldane/Arduino/blob/master/images/bielleservo1.png)
+
+## 28/03
+
+Cette séance, nous avons quasiment terminé la maquette et pouvons essayer les codes que l'on a écrits.
+Nous avons imprimer les supports liant les bielles et le support grâce à l'imprimante 3D du Fablab.
+L'imprimante n'étant pas correctement parametré au début nous avons du nous y reprendre plusieurs fois( Voir schéma explicatif  fin ).
+ 
+ L'avantage de ce nouveau modèle, en plus qu'il correspond à nos attentes et que nous ne sommes pas obligé de réimprimer des supports, en poncant au papier de verre, on peut passer du modèle 1 au modèle 2.
+ Les supports bielles étant finis et donc les bielles étant finis, il ne restait plus que le pilier centrale à finir ( voir schéma explicatif fin ).
+ 
+ Après quelques mesures et calculs pour obtenir les dimensions de chaque pièces composant le pilier, nous avons pu le finaliser et ainsi terminé la conception des pièces de la maquette. La maquette est quasiment fini car certains éléments ne sont pas encore collés, c'est pour cela que sur les photos la maquette n'est pas parfaitement droite.
+
+## Schéma explicatif
+
+![Schema piece 1](https://github.com/YassineWaldane/Arduino/blob/master/images/Schema%20piece%20(1).jpg)
+![Schema piece 2](https://github.com/YassineWaldane/Arduino/blob/master/images/Schema%20piece%20(2).jpg)
+
+## SCHEMA MAQUETTE 
+
+![Maquette](https://github.com/YassineWaldane/Arduino/blob/master/images/Maquette%201.jpg)
+![Maquette 2](https://github.com/YassineWaldane/Arduino/blob/master/images/Maquette%202.jpg)
+
+
+Petite précision sur le magnétisme dans notre projet :
+
+Les billes métalliques ne sont pas polarisés, elles n'attirent donc pas le métal, les barres magnétiques polarisent alors les billes, d'ou l'attration entre ces deux éléments et la non-présence de colle, l'attration étant assez forte pour lier les deux élements.
+Pour le pilier, la bille et le tube sont non polarisés, et on ne peut pas utilisé, une barre magnétique comme pour les bielles, le pilier devant être bien plus imposant, Nous avons donc utilisé un aimant, pour revenir à la situation précedemment expliquée, car celui-polarise le tube et la bille. ( Ce procédé est assez complexe à expliquer et bien plus simple a illustré En direct avec une manipulation simple )
+Le gros avantage de ce servir des forces magnétiques, et que nous utilisons peu de colle, et donc nous pouvons à tout moment revenir en arrière.
+
