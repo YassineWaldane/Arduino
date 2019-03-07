@@ -153,11 +153,39 @@ La maquette n'est pas fini à 100% certain éléments ne sont pas encore collés
 ![Maquette](https://github.com/YassineWaldane/Arduino/blob/master/images/Maquette%201.jpg)
 ![Maquette 2](https://github.com/YassineWaldane/Arduino/blob/master/images/Maquette%202.jpg)
 
+## 06-07/03
 
-Petite précision sur le magnétisme dans notre projet :
+Entre temps la maquette a été terminée, fixation, soudure, création d'un compartiment pour y placer le système arduino. L'equilibre est casi parfait, cependant il est impacté par l'endroit sur lequel nous placons la maquette, par exemple les tables en TD d'arduino ne sont pas parfaitement droites il faut donc prendre en compte ce défaut en ajustant quelques valeurs avant une démonstration.
 
-Les billes métalliques ne sont pas polarisés, elles n'attirent donc pas le métal, les barres magnétiques polarisent alors les billes, d'ou l'attration entre ces deux éléments et la non-présence de colle, l'attration étant assez forte pour lier les deux élements.
-Pour le pilier, la bille et le tube sont non polarisés, et on ne peut pas utilisé, une barre magnétique comme pour les bielles, le pilier devant être bien plus imposant, Nous avons donc utilisé un aimant, pour revenir à la situation précedemment expliquée, car celui-polarise le tube et la bille. ( Ce procédé est assez complexe à expliquer et bien plus simple a illustré En direct avec une manipulation simple )
-Le gros avantage de ce servir des forces magnétiques, et que nous utilisons peu de colle, et donc nous pouvons à tout moment revenir en arrière.
+![Maquettefin](https://github.com/YassineWaldane/Arduino/blob/master/images/53408411_2288842578003075_7320150759595573248_n.jpg)
+![Equilibre](https://github.com/YassineWaldane/Arduino/blob/master/images/53204975_428559867686832_5062732643355852800_n.jpg)
+
+La totalité du travaille va maintenant etre dirigé vers le coding et l'optimisation.
+Pour ma part, je me charge du coding. J'ai tout d'abord fait plusieurs petits codes qui seront unis plus tard.
+
+Premièrement, histoire de pour presenter du contenu en cas d'échec de mise en place du PID, je focus sur la partie manuel du projet qui est aussi la partie communication, via le bluetooth ( sur telephone ).
+
+Tout d'abord pour tester la maquette, on utilise des potentiomètres pour estimer l'interval dans lequel nous alons faire varier les angles des servos, on utilise la fonction map pour transcrire les valeurs envoyer par le potentiomètre en angle.
+
+![CodePotentio](https://github.com/YassineWaldane/Arduino/blob/master/images/Servo%20potentio.PNG)
+
+Ensuite, la partie bluetooth est testé avec un code simple, le but est de recevoir des valeurs d'angles via un slider sur téléphone, d'ou l'utilisation de parseInt.
+
+![CodeBluetooth](https://github.com/YassineWaldane/Arduino/blob/master/images/Bluetooth.PNG)
+
+La partie utilisant l'ecran tactile est résumé en une fonction, renvoyant un booléen en fonction de la présence ou non de la bille sur l'écran
+
+![CodeEcran](https://github.com/YassineWaldane/Arduino/blob/master/images/Ecran.PNG)
+
+On met aussi en place un système de Déconnexion, quand le programme est lancé, si il n'y a pas de bille ( pression ) sur l'écran alors , on incrément une variable temps, si cette variable atteint une certaine valeur, alors le programme "tourne pour rien" donc les servos sont détachés des pins .
+
+![Deconnexion](https://github.com/YassineWaldane/Arduino/blob/master/images/Deco.PNG)
+
+Finalement, on met en commun ces petits programmes et on obtient:
+
+![ServoBluetooth](https://github.com/YassineWaldane/Arduino/blob/master/images/Servo%20bluetooth.PNG)
+
+Maintenant, la suite ...
+
 
 
