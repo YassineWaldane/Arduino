@@ -165,7 +165,7 @@ Pour ma part, je me charge du coding. J'ai tout d'abord fait plusieurs petits co
 
 Premièrement, histoire de pour presenter du contenu en cas d'échec de mise en place du PID, je focus sur la partie manuel du projet qui est aussi la partie communication, via le bluetooth ( sur telephone ).
 
-Tout d'abord pour tester la maquette, on utilise des potentiomètres pour estimer l'interval dans lequel nous alons faire varier les angles des servos, on utilise la fonction map pour transcrire les valeurs envoyer par le potentiomètre en angle.
+Tout d'abord pour tester la maquette, on utilise des potentiomètres pour estimer l'interval dans lequel nous allons faire varier les angles des servos, on utilise la fonction map pour transcrire les valeurs envoyer par le potentiomètre en valeur de 00 à 50 (angle).
 
 ![CodePotentio](https://github.com/YassineWaldane/Arduino/blob/master/images/Servo%20potentio.PNG)
 
