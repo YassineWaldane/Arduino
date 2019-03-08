@@ -172,7 +172,7 @@ Grace aux aimants nous n'avons pas a collé ceertaines pièces ce qui apporte be
 # `Semaine 9 (08 / 03 /2019):`
 
 Lors de cette séance nous avons totalement terminé la maquette, c'est-à-dire couper les axes trop long, les souder, j'ai crée une boite que l'on mettera en dessous de notre maquette et j'ai commencé à cherché la meilleure manière d'organiser les fils électriques,histoire de ne pas avoir trop de fils en apparent.
-Nous avons aussi trouvé la position de stabilité de notre maquette à une erreur près dûe aux tables qui ne sont pas parfaitement de niveau.
+Nous avons aussi trouvé la position de stabilité de notre maquette à une erreur près dûe aux tables qui ne sont pas parfaitement de niveau. Et fais en sorte que l'on puisse commander le tout en bluetooth.
 
 ![Stabilité](https://github.com/YassineWaldane/Arduino/blob/master/images/53204975_428559867686832_5062732643355852800_n.jpg)
 
@@ -181,3 +181,4 @@ Nous avons eu un problème avec la partie bluetooth qui au moment de la connecti
 ![Bille sur le plateau](https://github.com/YassineWaldane/Arduino/blob/master/images/53408411_2288842578003075_7320150759595573248_n.jpg)
 
 Comme je l'ai dis je vais m'occuper de rendre un montage propre tandis que Baptiste reprend sa partie sur le codage en essayant de coder le PID pour avoir une bonne stabilité, je vais bien évidemment l'aider afin de réussir le plus tôt possible.
+L'idéal serait d'avoir un PID fonctionnel et de crée quelques fonctions (carrée , cercle, ...) où les commandes sont choisit par bluetooth.
