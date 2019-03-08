@@ -169,3 +169,15 @@ L'imprimante n'étant pas correctement parametré au début nous avons du nous y
 
 Grace aux aimants nous n'avons pas a collé ceertaines pièces ce qui apporte beaucoup plus de degrès de libertés ce qui permet certains mouvements non permis si les pièces été collées entre elles. De plus, l'avantage du magnétisme par rapport au collage est que nous pouvons revennir en arrière sans contraintes ( et sans amoché la maquette ).
 
+# `Semaine 9 (08 / 03 /2019):`
+
+Lors de cette séance nous avons totalement terminé la maquette, c'est-à-dire couper les axes trop long, les souder, j'ai crée une boite que l'on mettera en dessous de notre maquette et j'ai commencé à cherché la meilleure manière d'organiser les fils électriques,histoire de ne pas avoir trop de fils en apparent.
+Nous avons aussi trouvé la position de stabilité de notre maquette à une erreur près dûe aux tables qui ne sont pas parfaitement de niveau.
+
+![Stabilité](https://github.com/YassineWaldane/Arduino/blob/master/images/53204975_428559867686832_5062732643355852800_n.jpg)
+
+Nous avons eu un problème avec la partie bluetooth qui au moment de la connection envoie une valeur supérieure à l'angle maximal de l'un des moteurs, que nous avons fixé 50°. Le bluetooth envoyait une valeure de plus de 250°. Ce qui faisait que le moteur tournait trop et comme il bute sur la plaque à ces moments là, le servomoteur c'est même décoller de la plaque. après avoir recollé le support nous avons modifié le code afin que l'arduino ne traite pas les valeurs extrêmes.
+
+![Bille sur le plateau](https://github.com/YassineWaldane/Arduino/blob/master/images/53408411_2288842578003075_7320150759595573248_n.jpg)
+
+Comme je l'ai dis je vais m'occuper de rendre un montage propre tandis que Baptiste reprend sa partie sur le codage en essayant de coder le PID pour avoir une bonne stabilité, je vais bien évidemment l'aider afin de réussir le plus tôt possible.
